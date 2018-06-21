@@ -10,5 +10,3 @@ function AddElementToBeginningOfArray(array, element) {
   arrays.unshift(element)
   return array
 }
-
-
